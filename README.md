@@ -1,5 +1,7 @@
 Wine Quality Prediction using Machine Learning
+
 Overview
+
 This project utilizes machine learning techniques to predict the quality of wine based on its chemical properties. The analysis and model development are implemented in a Jupyter Notebook, wine_quality_prediction.ipynb, which includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and visualization.
 
 The goal of this project is to demonstrate the application of machine learning methodologies to a real-world dataset, enabling users to understand the steps involved in building predictive models.
